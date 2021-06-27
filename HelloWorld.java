@@ -1,4 +1,4 @@
-public class HelloWorld {                             //pusg from github webpage
+public class HelloWorld {                             //all in order
 
     public static void main (String [] args) {
         System.out.println("Hello world");
